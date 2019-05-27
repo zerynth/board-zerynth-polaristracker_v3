@@ -1,1 +1,0 @@
-# board-zerynth-polaristracker_v3
