@@ -1,0 +1,14 @@
+---
+description: Add support for Polaris Tracker V3 board
+fullname: board.zerynth.polaristracker_v3
+info:
+    board: Polaris Tracker v3
+    chip_manufacturer: Fortebit
+    device: stm32f452
+    family_type: ARM Cortex M4
+keywords:
+- board
+- robotech
+- stm
+title: Polaris Tracker v3 Board Support Package
+...
